@@ -1,0 +1,18 @@
+#profilePic {
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
+#hero img{
+  height: 422px;
+  width: 1400px;
+}
+
+#projects {
+  background-color: blue;
+}
+#projects img{
+  height: 300px;
+  width: 500px;
+}
